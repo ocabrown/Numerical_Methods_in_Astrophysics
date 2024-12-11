@@ -1,4 +1,4 @@
-# Numerical_Methods_in_Astrophysics
+# Numerical Methods in Astrophysics
 
 
 Here you will find Python projects which have been inspired by the book "Numerical Methods in Astrophysics" by P. Bodenheimer, et al.
